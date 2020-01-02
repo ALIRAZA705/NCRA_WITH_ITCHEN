@@ -73,10 +73,11 @@ public class HomeActivity extends AppCompatActivity {
  //   static String MQTTHOST = "tcp://172.20.10.11:1883";
  //  static String MQTTHOST = "tcp://192.168.1.148:1883";
  //static String MQTTHOST = "tcp://192.168.43.218:1883";
- static String MQTTHOST = "tcp://192.168.1.150:1883";
+// static String MQTTHOST = "tcp://192.168.1.150:1883";
    // static String MQTTHOST = "tcp://192.168.1.176:1883";
+ //static String MQTTHOST = "tcp://172.17.84.16:1883";
 
-    //    static String MQTTHOST = "tcp://192.168.1.177:1883";
+    static String MQTTHOST = "tcp://192.168.1.150:1883";
 //    static String MQTTHOST = "tcp://192.168.43.218:1883";
     static String USERNAME = "vqjftqpa";
     static String PASSWORD = "Lgng8k4diV28";
@@ -86,7 +87,7 @@ public class HomeActivity extends AppCompatActivity {
     //static String DEFAULT_SSID = "Cute Murad";
    // static String DEFAULT_SSID = "Cute Murad";
     static String DEFAULT_SSID = "hoocontrols";
-//    static String DEFAULT_SSID = "ICE9";
+ //static String DEFAULT_SSID = "ICE";
 //    static String DEFAULT_SSID = "hosterlink.com Web Hosting";
 
 //    String topicStrL = "painlessMesh/to/586821073";
